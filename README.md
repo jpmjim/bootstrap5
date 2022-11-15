@@ -35,4 +35,23 @@ Curso de Bootstrap desde Cero
   - Componentes son elementos html reutilizables que vienen con un estilo predeterminado.
   - Iconos que vienen dentro del framework.
 
+## La grid de Bootstrap
+  Grid o cuadrícula es como queremos que se presenten que espcacio deben ocupar los elementos de la página.
+
+  Conjunto de contenedores, filas y columnas que definen cómo se va a presentar y a alinar el contenido.
+
+  ![](https://images04.nicepage.com/feature/447593/es/80-grid-layouts.jpg)
+
+  Dentro de la cuadricula nos permite trabajar con filas y columnas, cada fila pude estar dividida en 12 columnas, cuantas columnas puede ocupar cada elemento.
+
+  Clases especificas para la grid que podemos asignarles a los elementos de html:
+
+  ![Imgur](https://i.imgur.com/catK4rL.png) 
+
+  - **Row** cuando utilizamos la clase decimos que ese elemento html se va copnvertir en una fila.
+  ![Imgur](https://i.imgur.com/ve1lNNC.png)
+
+  - Para especificar la cantidad de columnas debemos utilizar la clase de **col-**, dentro de la clases se puede determinar tambien el tamaño de las dimensiones ***xs, sm, md, lg, xl y xxl*** los cuales representan el ancho de la ventana donde se ve la página web o llamado la viweport.
+  ![Imgur](https://i.imgur.com/deYA28B.png)
+
 
