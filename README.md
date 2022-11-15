@@ -19,4 +19,14 @@ Curso de Bootstrap desde Cero
 
   Dentro del panel incluye ña opciones de poder probar la página dentro de distintos dispositivos como desktop, table, numerosos tamaños de celulares, como se poder desarrollar de manera responsive.
 
-  
+## Introducción a Bootstrap
+  Es un framework CSS para desarrollar sitios adaptables, una forma de aplicar estilo css mucho mas facil.
+
+  - Framework es una estructura bsae que puedes usar para desarrollar tu aplicación o sitio web de forma más rápida y eficiente.
+
+  - El framework CSS es un conjunto de clases que nos permite personalizar el estilo de los elementos de HTML dentro del sitio web.
+
+  - Responsivo o responsive es que se adaota a distintos  dispositivos en base a su tamaño y orientación en desarrollo web.
+
+
+
