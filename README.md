@@ -54,4 +54,8 @@ Curso de Bootstrap desde Cero
   - Para especificar la cantidad de columnas debemos utilizar la clase de **col-**, dentro de la clases se puede determinar tambien el tamaño de las dimensiones ***xs, sm, md, lg, xl y xxl*** los cuales representan el ancho de la ventana donde se ve la página web o llamado la viweport.
   ![Imgur](https://i.imgur.com/deYA28B.png)
 
+## Breakpoint
+  Dimensión ancho a partir de la cual podemos cambiar el estilo o la estructura de la página web. Es un punto de quiebre el cual hace que el estilo se actulice o cambie a partir de una dimension.
+
+  ![Imgur](https://i.imgur.com/5OUnxuZ.png)
 
