@@ -59,3 +59,11 @@ Curso de Bootstrap desde Cero
 
   ![Imgur](https://i.imgur.com/5OUnxuZ.png)
 
+## Estructura de la grid
+  - Un contenedor puede contener filas y cada fila contiene 12 columnas.
+    ![Imgur](https://i.imgur.com/XVnLM30.png)
+
+    ![Imgur](https://i.imgur.com/LrzvUTn.png)
+
+
+
