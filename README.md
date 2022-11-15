@@ -28,5 +28,11 @@ Curso de Bootstrap desde Cero
 
   - Responsivo o responsive es que se adaota a distintos  dispositivos en base a su tamaño y orientación en desarrollo web.
 
+## Tres pilares de Bootstrap
+  Tres de las caracteristicas principales que nos ofrece bootstrap son 
+  
+  - Grid como se van estructura los elementos de la página web y como se van adaptar al tamaño del dispositivo.
+  - Componentes son elementos html reutilizables que vienen con un estilo predeterminado.
+  - Iconos que vienen dentro del framework.
 
 
