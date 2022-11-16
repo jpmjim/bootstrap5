@@ -94,3 +94,8 @@ Curso de Bootstrap desde Cero
   - Las columnas de los elementos de una fila deben sumar 12 para que esten ubicados en la misma línea.
 
   - Si suman más de 12, las columnas adicionales se colocan en una línea nueva.
+
+## Componentes
+  Un componente de bootstrap es un elemento HTML reutilizable que ya viene con un estilo predeterminado y podemos usar en nuestra página web.
+
+  Podemos personalizar el estilo de los [componentes](https://getbootstrap.com/docs/5.2/components/accordion/) de Bootstrap.
