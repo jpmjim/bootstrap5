@@ -66,4 +66,18 @@ Curso de Bootstrap desde Cero
     ![Imgur](https://i.imgur.com/LrzvUTn.png)
 
 
+## Contenedores en Bootstrap
 
+  - Un contenedor es un elemento html que contendra en su interior toda la estructura de filas y columnas o elementos html que podamos incluir
+
+  - Hay dos clases especificas dentro de bootstrap para usar un contenedor: **.container y .container-fluid**
+
+    - ***.container*** crear un contenedor responsivo con un ancho máximo fijo que depende del tamaño del dispositivo.
+
+    - ***.container-fluid*** crea un contenedor respondivo que cubre 100% del ancho de la ventana.
+
+## Contenedores
+
+  ![Imgur](https://i.imgur.com/BrbbjNP.png)
+
+  Contenedores responsivos crea un contenedor responsivo que cubre 100% del ancho de la ventana hasta que llega  a las dimensiones de ese breakpoint.
