@@ -81,3 +81,16 @@ Curso de Bootstrap desde Cero
   ![Imgur](https://i.imgur.com/BrbbjNP.png)
 
   Contenedores responsivos crea un contenedor responsivo que cubre 100% del ancho de la ventana hasta que llega  a las dimensiones de ese breakpoint.
+
+## Estructura de la grid
+  - Los elementos de una fila pueden ocupar varias columnas.
+
+  ![Imgur](https://i.imgur.com/kGTOUX3.png)
+
+  - Podemos generar cualquier combinacion de estructura elemento.
+
+  ![Imgur](https://i.imgur.com/pRFevDo.png)
+
+  - Las columnas de los elementos de una fila deben sumar 12 para que esten ubicados en la misma línea.
+
+  - Si suman más de 12, las columnas adicionales se colocan en una línea nueva.
