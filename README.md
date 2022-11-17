@@ -99,3 +99,12 @@ Curso de Bootstrap desde Cero
   Un componente de bootstrap es un elemento HTML reutilizable que ya viene con un estilo predeterminado y podemos usar en nuestra página web.
 
   Podemos personalizar el estilo de los [componentes](https://getbootstrap.com/docs/5.2/components/accordion/) de Bootstrap.
+
+## Íconos de Bootstrap
+  Son otra parte importante de bootstrap son iconos que se pueden adaptar a distintos tamaños y siempre se van a mostrar con la misma calidad y nitidez.
+
+  Link de los [iconos](https://icons.getbootstrap.com/) de bootstrap
+
+  Es una libreria, una biblioteca open source de código abierto de iconos SVG. SGV es un formato de gráficos no se distorsionan cuando se incrementa su tamaño, se adaptan muy bien y con mucha nitidez a diferentes tamaños y dispositivos.
+
+  **CDN** Content Delivery Network
