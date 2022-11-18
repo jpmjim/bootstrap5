@@ -108,3 +108,5 @@ Curso de Bootstrap desde Cero
   Es una libreria, una biblioteca open source de código abierto de iconos SVG. SGV es un formato de gráficos no se distorsionan cuando se incrementa su tamaño, se adaptan muy bien y con mucha nitidez a diferentes tamaños y dispositivos.
 
   **CDN** Content Delivery Network
+  
+  Hacer una comparación con tailwindcss
